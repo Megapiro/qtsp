@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
