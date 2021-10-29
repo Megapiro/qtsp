@@ -1,0 +1,1 @@
+from qtsp.results.result import Result
